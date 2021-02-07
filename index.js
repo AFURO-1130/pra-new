@@ -1,3 +1,1 @@
-const hoge = "金城";
-
-console.log(hoge);
+console.log(Math.floor(null));
