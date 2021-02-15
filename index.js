@@ -1,6 +1,6 @@
 let hoge = 2;
 
-let i =7;
+let i =7;//ここが厳密演算子ではないから
 function my(){
   if(hoge >0){
     let i =0;
