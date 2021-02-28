@@ -1,11 +1,7 @@
-const list = ["jj","dd","ee"];
-const balls = list[Math.floor(Math.random() * list.length)];
-const messages = "hoeg";
-const message = "hogehoge"
-if(typeof balls === "number"){
-    console.log(messages)
-    return  messages;
-}
-else{
-    console.log(message)
+
+
+if("モンスターボール"||"スーパーボール"||"ハイパーボール"||"マスターボール"||"ダイブボール"||"ネストボール"||"タイマーボール"||
+"リピートボール"||"プレミアボール"||"ゴージャスボール"||"ヒールボール"||"ダークボール"||"クイックボール" === "int")
+{
+console.log(true)
 }
